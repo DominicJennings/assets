@@ -10,7 +10,3 @@ In Wrapper, Set the contents of `config.json` to:
 }
 
 ```
-# Wrapper Online
-want to modify the node.js wrapper online? Click [Here](https://github.com/2Epik4u/Wrapper-Online)
-do you want to add a new character on wrapper online? Click [Here](https://github.com/2Epik4u/Wrapper-Online-Characters)
-or the thumbnails? Click [Here](https://github.com/2Epik4u/Wrapper-Online-thumbnails)
