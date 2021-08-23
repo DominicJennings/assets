@@ -1,12 +1,5 @@
-# It's back
-yes wrapper online is back for the 3rd time!!
-
-# NOTE
-this is not the place too be putting custom assets. If you want too add custom assets add them [here](https://github.com/2Epik4u/GoAnimate-Modded-Assets)
-
 # Wrapper-Online-Assets
-These are the Asset server files for Wrapper Online. Basicly a bunch of files are stored from a server so other sites connect to it.
-
+This is the old Asset server files for Wrapper Online. Wrapper Online Is closed. But the server assets are still up due to archival purposes. You can view the website [Here](https://wrapperonlineold.2epik4u.xyz
 ## To Use the Asset Library
 In Wrapper, Set the contents of `config.json` to:
 ```
