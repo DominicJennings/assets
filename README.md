@@ -1,5 +1,5 @@
 # Wrapper-Online-Assets
-This is the old Asset server files for Wrapper Online. Wrapper Online Is closed. But the server assets are still up due to archival purposes. You can view the website [Here](https://wrapperonlineold.2epik4u.xyz
+This is the old Asset server files for Wrapper Online. Wrapper Online Is closed. But the server assets are still up due to archival purposes. You can view the website [Here](https://wrapperonlineold.2epik4u.xyz)
 ## To Use the Asset Library
 In Wrapper, Set the contents of `config.json` to:
 ```
